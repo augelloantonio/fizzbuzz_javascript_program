@@ -1,4 +1,4 @@
-# Test n.1 
+# FizzBuzz Program with Javascript
 
 This function check if the given number is divisible for three, for five or for both and make a list where the number are replaced in the array by the strings:
 
@@ -14,5 +14,4 @@ This function check if the given number is divisible for three, for five or for 
 ### To run the testing:
 - Run the file testing.html
 
-## Testing
 For the testing I used Jasmine.
