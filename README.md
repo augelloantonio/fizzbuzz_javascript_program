@@ -7,11 +7,11 @@ This function check if the given number is divisible for three, for five or for 
 - 'ThreeFive' is the number is divisible by three ad five
 
 ### To run the project:
-- Run the index.html file 
+- Open Deployed GitHub Page - [FuzzBuzzLive](https://gello94.github.io/fizzbuzz_javascript_program/)
 - Using the developer tools of your browser open the console
 - Check the printed list
 
 ### To run the testing:
-- Run the file testing.html
+- Open live Jasmine Testing page - [FuzzBuzzLive - Jasmine Testing](https://gello94.github.io/fizzbuzz_javascript_program/testing.html)
 
 For the testing I used Jasmine.
