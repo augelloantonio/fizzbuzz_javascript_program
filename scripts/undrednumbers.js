@@ -46,3 +46,24 @@ var test = 100;
 
 // Run script with my var value
 undredNumbers(test);
+
+my_array = undredNumbers(test);
+
+// Display the list in the html
+function getList(array) {
+	var list = document.createElement('ul');
+	for (i = 0; i < array.length; i++) {
+
+		var item = document.createElement('li');
+		console.log(item)
+
+		// Set its contents:
+		item.appendChild(document.createTextNode(array[i]));
+
+		// Add it to the list:
+		list.appendChild(item);
+	}
+	return list;
+}
+
+document.getElementById('demo').appendChild(getList(my_array));
